@@ -1,2 +1,2 @@
-print("Pierwsza linijka")
-print("Druga linijka")
+print("PIERWSZA LINIA LOKALNIE")
+print("DRUGA LINIA LOKALNIE")
